@@ -13,7 +13,7 @@ chmod +x encrypt.py
 
 Run:
 
-./encrypt.py
+python3 encrypt.py
 
 [Note: This version doesn't support any number or special character. Next time, I will include all. ]
 
