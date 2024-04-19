@@ -3,7 +3,7 @@
 This can encrypt or decrypt any text message. 
 
 
-Setup: 
+Linux Setup: 
 
 git clone https://github.com/ixink/ixiECDC.git
 
