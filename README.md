@@ -1,3 +1,4 @@
+#coded by ixink
 This can encrypt or decrypt any text message. 
 
 
