@@ -3,7 +3,6 @@ print("(_)_  _(_) | ____/ ___/ /\ \|  _ \ / ___|")
 print("| \ \/ / | |  _|| |  / /  \ \ | | | |    ")
 print("| |>  <| | | |__| |__\ \  / / |_| | |___ ")
 print("|_/_/\_\_| |_____\____\_\/_/|____/ \____|")
-
 message=input("What would you like to do?\n1. Encrypt\n2. Decrypt\n")
 def Encryptmessage(str,key1):
     encstring=""
